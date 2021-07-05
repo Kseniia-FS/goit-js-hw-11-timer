@@ -26,28 +26,28 @@ body {
   color: #fff;
   display: flex;
   justify-content: center;
-  margin-top: 20px;
+  margin-top: 40px;
   font-weight: 100;
   text-align: center;
   font-size: 30px;
 }
  
 .field {
-  padding: 10px;
-  margin: 5px;
-  border-radius: 3px;
-  background: #2c6468;
+  padding: 15px;
+  margin: 10px;
+  border-radius: 5px;
+  background: #080808;
 }
  
 .value {
-  padding: 15px;
-  border-radius: 3px;
-  background: #78c7d4;
+  padding: 20px;
+  border-radius: 5px;
+  background: #f7a0eb;
   display: inline-block;
 }
  
 .label {
   display: block;
-  padding-top: 5px;
+  padding-top: 10px;
   font-size: 16px;
 }

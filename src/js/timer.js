@@ -4,7 +4,7 @@ from "./plagin.js";
 
 const timer = new CountdownTimer({
   selector: "#timer-1",
-  targetDate: "2021,07,17",
+  targetDate: "2022,07,17",
 });
 
 
