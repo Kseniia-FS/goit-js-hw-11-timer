@@ -7,4 +7,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{"./plagin.js":"leU0"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("./js/timer.js");
 },{"./sass/main.scss":"clu1","./js/timer.js":"yCUT"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-10-food-service/src.8a360053.js.map
+//# sourceMappingURL=/goit-js-hw-11-color-switch/src.8a360053.js.map
